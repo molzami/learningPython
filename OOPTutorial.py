@@ -26,7 +26,7 @@ class Bulldog(Dog):
     pass
 
 #-----runnable code -------
-rover = Bulldog("Rover", 4)
+rover = Bulldog("Rover", 6)
 miles = JackRussellTerrier("Miles", 4)
 buddy = Dachshund("Buddy", 2)
 jack = Dog("Jack", 7)
